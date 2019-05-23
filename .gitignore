@@ -16,7 +16,7 @@
 *.iml
 *.ipr
 *.php
-*.c
+
 
 ### NetBeans ###
 nbproject/private/
